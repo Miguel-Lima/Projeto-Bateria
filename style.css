@@ -9,7 +9,11 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-color: rgb(36, 3, 66);
+    background: #1F1C2C;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #928DAB, #1F1C2C);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #928DAB, #1F1C2C); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -34,8 +38,9 @@ h1 {
     font-weight: bold;
 }
 .key.active {
-    border: 2px solid #FF0;
-    color: #FF0;
+    border: 2px solid rgba(41, 3, 63, 0.842);
+    
+
 }
 
 .composer {
@@ -53,7 +58,7 @@ h1 {
     height: 40px;
     background: none;
     border: 2px solid #FFF;
-    color: #FFF;
+    color: rgb(255, 255, 255);
     font-size: 16px;
     margin-top: 10px;
     cursor: pointer;
