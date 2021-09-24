@@ -4,26 +4,22 @@
 
 </div>
 
- <br></br>
-
-    ## 🚀 Technologies
-    
-    + Developed with: <br></br>
-
-     :heavy_check_mark: HTML
-     :heavy_check_mark: CSS
-     :heavy_check_mark: Javascript 
-    
-    <br></br>
-
+ ## 🚀 Technologies:
+ This project uses
+ 
+ ✔️ HTML
+ ✔️CSS
+ ✔️ Javascript
+ 
+ </br>
 
   # About this project
   
    Idea of this project
 
-   > - Select keys by clicking
-   > - Each key will generate a different sound
-   > - When playing the melody will be made according to the keys chosen synchronously
+   > - Select keys by clicking.
+   > - Each key will generate a different sound.
+   > - When playing the melody will be made according to the keys chosen synchronously.
    
  
   <br>
