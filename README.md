@@ -4,10 +4,10 @@
 
 </div>
 
- ## 🚀 Technologies:
- This project uses
+ ## 🚀 Technologies
+ This project uses:
  
-  -✔️ HTML
+ - ✔️ HTML
  - ✔️CSS
  - ✔️ Javascript
  
