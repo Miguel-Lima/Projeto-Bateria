@@ -7,11 +7,10 @@
  ## 🚀 Technologies:
  This project uses
  
- <ul>
- ✔️ HTML
- ✔️CSS
- ✔️ Javascript
- </ul>
+  -✔️ HTML
+ - ✔️CSS
+ - ✔️ Javascript
+ 
  
  </br>
 
