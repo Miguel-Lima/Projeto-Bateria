@@ -18,9 +18,9 @@
   
    Idea of this project
 
-   > - Select keys by clicking.
+   > - Select any key with click event.
    > - Each key will generate a different sound.
-   > - When playing the melody will be made according to the keys chosen synchronously.
+   > - When playing, the melody will be made according to the keys chosen synchronously.
    
  
   <br>
